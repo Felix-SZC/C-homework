@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(212,7): warning C4250: “Square”: 通过域控制继承“Polygon::Polygon::draw”
+      D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(170,10):
+      参见“Polygon::draw”的声明
+  
+D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(212,7): warning C4250: “Square”: 通过域控制继承“Polygon::Polygon::move”
+      D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(150,10):
+      参见“Polygon::move”的声明
+  
+D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(212,7): warning C4250: “Square”: 通过域控制继承“Polygon::Polygon::rotate”
+      D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(156,10):
+      参见“Polygon::rotate”的声明
+  
+D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(212,7): warning C4250: “Square”: 通过域控制继承“Polygon::Polygon::scale”
+      D:\学习\大二\Homework\C++\C-homework\Project_11_13\Project_11_13\main.cpp(163,10):
+      参见“Polygon::scale”的声明
+  
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Project_11_13.vcxproj -> D:\学习\大二\Homework\C++\C-homework\Project_11_13\x64\Debug\Project_11_13.exe
