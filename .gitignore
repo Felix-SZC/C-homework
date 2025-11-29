@@ -1,0 +1,32 @@
+# Visual Studio 生成的文件
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio IntelliSense 预编译头文件（这些文件很大，不应该提交）
+*.ipch
+**/ipch/
+
+# 编译生成的文件
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.recipe
+
+# Debug 目录
+Debug/
+x64/
+*.db
+
+# 其他临时文件
+*.tmp
+*.bak
+*~
+
